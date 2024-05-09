@@ -1,0 +1,15 @@
+
+Create a faluty calculator using javascript
+
+
+This Faulty calculator does following:
+1.It takes two number as input from the user
+2.It performs wrong operation as follows:
+
+
++ ----> -
+* -----> +
+- ----> /
+/ ----> **
+
+It performs wrong aperation 10% of the timess
